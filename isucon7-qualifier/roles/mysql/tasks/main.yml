@@ -6,7 +6,6 @@
   with_items:
     - make
     - mysql-server
-    - python-mysqldb
 
 - shell: "/home/isucon/xbuild/go-install -f 1.9 /home/isucon/local/go"
   args:
